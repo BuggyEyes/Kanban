@@ -8,5 +8,5 @@ function greeting(name) {
         sayHi: sayHi
     }
 }
-const person = greeting('Natalya');
+const person = greeting('someone');
 person.sayHi();
